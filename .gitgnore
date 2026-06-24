@@ -1,0 +1,22 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
